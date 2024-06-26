@@ -7,11 +7,11 @@ Breve descrição do seu projeto
 ChatGPT - OpenAI
 
 ## 🧐 Processo de Criação
-1 - Acessei o site da OpenAi, abri uma nova conta e fiz as seguintes solicitações
-  -- Agora você é um especialista em Inteligencia artificial e PLN, usando uma linguagem mais facil e prática gere um texto explicando sobre Deep Learning e PLN
-  -- Qual a principal diferença entre uma rede neural shallow para uma rede de Deep Learning?
-  -- Agora me escreva uma pequena explicação sobre Deep learning e visão computacional
-  -- Crie um pequeno artigo sobre todas essas informações incluindo introdução e referencias
+### Acessei o site da OpenAi, abri uma nova conta e fiz as seguintes solicitações
+### Agora você é um especialista em Inteligencia artificial e PLN, usando uma linguagem mais facil e prática gere um texto explicando sobre Deep Learning e PLN
+### Qual a principal diferença entre uma rede neural shallow para uma rede de Deep Learning?
+### Agora me escreva uma pequena explicação sobre Deep learning e visão computacional
+### Crie um pequeno artigo sobre todas essas informações incluindo introdução e referencias
 
 ## 🚀 Resultados
 # Deep Learning e Suas Aplicações em Processamento de Linguagem Natural e Visão Computacional
